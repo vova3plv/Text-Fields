@@ -33,3 +33,15 @@ when the user input or pastes the copied link, opens it in SFSafariViewControlle
 #### Fifth text field
 added strong password validation rules, min 1 digit, min 1 lowercase, min 1 capital required. Min length 8 characters. Indicated rules execution & strength.
 
+## Usage
+
+### Fields are not filled
+<img src="https://github.com/vova3plv/Text-Fields/blob/main/Usage/2024-01-29%2012.49.06.jpg" width="300" >
+
+### Fields are filled
+<img src="https://github.com/vova3plv/Text-Fields/blob/main/Usage/2024-01-29%2012.50.16.jpg" width="300" >
+
+### Opened SafariVC
+<img src="https://github.com/vova3plv/Text-Fields/blob/main/Usage/2024-01-29%2012.50.28.jpg" width="300" >
+
+
